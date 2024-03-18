@@ -11,3 +11,5 @@ To learn more, visit https://dscsagovernance.org/
 ## 🤝 Contributing
 
 We encourage contributions from PDG member and non-member companies and individuals.
+
+Please note that all materials and content in this repository are currently in draft form and should be considered as "AS IS." This includes, but is not limited to, code, documentation, and any other resources found within. We provide these materials on an as-is basis without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, or non-infringement. Users are advised to exercise their own due diligence and caution when using or relying on any content in this repository, understanding that it may contain errors, omissions, or out-of-date information. The contributors and maintainers of this repository accept no liability for any damage or loss resulting from the use of its contents.
